@@ -1,0 +1,27 @@
+@font-face{
+    font-family : "GoogleSans";
+    src: url(webapp/ProductSans-Bold.ttf);
+}
+button{
+    background-color : DodgerBlue;
+    color : white;
+    border 1px;
+    border-radius : 4px;
+    padding : 6px 12px;
+    margin : 4px 2px;
+}
+input[type = text]{
+    width : 30%;
+    border : 2px solid black;
+    border-radius: 4px;
+    padding :6px 12px;
+}
+h1{
+    font-family : "GoogleSans";
+}
+body{
+    text-align: center;
+}
+.resultTable{
+    display :inLine-block;
+}
