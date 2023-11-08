@@ -1,6 +1,5 @@
-@font-face{
-    font-family : "GoogleSans";
-    src: url(webapp/ProductSans-Bold.ttf);
+*{
+    font-family: 'Poppins', sans-serif;
 }
 button{
     background-color : DodgerBlue;
@@ -16,9 +15,7 @@ input[type = text]{
     border-radius: 4px;
     padding :6px 12px;
 }
-h1{
-    font-family : "GoogleSans";
-}
+
 body{
     text-align: center;
 }
