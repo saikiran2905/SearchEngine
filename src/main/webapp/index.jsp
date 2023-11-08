@@ -1,12 +1,6 @@
 <html>
     <head>
         <link rel = "stylesheet" type ="text/css" href = "style.css">
-        <style>
-              @font-face { font-family: JuneBug; src: url('JUNEBUG.TTF'); }
-              h1 {
-                 font-family: JuneBug
-              }
-        </style>
     </head>
     <body>
     <h1> Search Engine </h1>
